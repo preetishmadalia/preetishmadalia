@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 HT to @mattn
 
-![Top Langs (lol)](https://github-readme-stats.vercel.app/api/top-langs/?username=booyaa&hide=html)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=booyaa&show_icons=true&count_private=true&line_height=40)
+![Top Langs (lol)](https://github-readme-stats.vercel.app/api/top-langs/?username=preetishmadalia&hide=html)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=preetishmadalia&show_icons=true&count_private=true&line_height=40)
